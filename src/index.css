@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&family=Poppins&family=Roboto&family=Signika+Negative:wght@600&display=swap");
+
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  scroll-behavior: smooth;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+}
